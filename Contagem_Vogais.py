@@ -16,7 +16,7 @@ else:
     consoantes += 1
 
 
-print(f'A frase: {frase} tem {vogais} vogais, {consoantes}, consoantes, {espacos}, espacos ')
+print(f'A frase: {frase} tem {vogais} vogais, {consoantes}, consoantes, {espacos}, espacos   ')
 
 
 
